@@ -1,0 +1,37 @@
+ToyCar,AUC(Source),AUC(Target),pAUC
+weight=[1.0]
+Arithmetic mean,0.9022,0.7371,0.5937
+Harmonic mean,0.8971,0.7159,0.5812
+
+ToyTrain,AUC(Source),AUC(Target),pAUC
+weight=[1.0]
+Arithmetic mean,0.9140,0.5115,0.6021
+Harmonic mean,0.9084,0.4478,0.5907
+
+bearing,AUC(Source),AUC(Target),pAUC
+weight=[1.0]
+Arithmetic mean,0.6015,0.8742,0.5575
+Harmonic mean,0.5248,0.8634,0.5474
+
+fan,AUC(Source),AUC(Target),pAUC
+weight=[1.0]
+Arithmetic mean,0.8020,0.6593,0.6304
+Harmonic mean,0.7971,0.6316,0.6213
+
+gearbox,AUC(Source),AUC(Target),pAUC
+weight=[1.0]
+Arithmetic mean,0.8463,0.7868,0.6593
+Harmonic mean,0.8354,0.7697,0.6469
+
+slider,AUC(Source),AUC(Target),pAUC
+weight=[1.0]
+Arithmetic mean,0.9566,0.8157,0.7430
+Harmonic mean,0.9559,0.8033,0.7333
+
+valve,AUC(Source),AUC(Target),pAUC
+weight=[1.0]
+Arithmetic mean,0.9572,0.8959,0.7060
+Harmonic mean,0.9566,0.8956,0.7023
+
+(A)Total Average,0.8543,0.7544,0.6417
+(H)Total Average,0.8393,0.7325,0.6318

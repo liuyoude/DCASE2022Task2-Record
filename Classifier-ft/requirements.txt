@@ -1,0 +1,7 @@
+torch
+wget
+scikit-learn==1.0
+pyyaml==6.0
+tensorboard==2.8.0
+tqdm==4.62.3
+timm==0.4.5

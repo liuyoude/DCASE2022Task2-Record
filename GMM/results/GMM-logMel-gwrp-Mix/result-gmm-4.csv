@@ -1,0 +1,22 @@
+ToyCar,AUC(Source),AUC(Target),pAUC
+decay=0.96,0.8829,0.6676,0.5395
+
+ToyTrain,AUC(Source),AUC(Target),pAUC
+decay=0.91,0.9037,0.4685,0.6060
+
+bearing,AUC(Source),AUC(Target),pAUC
+decay=0.88,0.6146,0.7297,0.5440
+
+fan,AUC(Source),AUC(Target),pAUC
+decay=0.97,0.7243,0.6151,0.5704
+
+gearbox,AUC(Source),AUC(Target),pAUC
+decay=0.99,0.8487,0.7998,0.6516
+
+slider,AUC(Source),AUC(Target),pAUC
+decay=0.90,0.9425,0.7340,0.7098
+
+valve,AUC(Source),AUC(Target),pAUC
+decay=0.10,0.9485,0.9154,0.7333
+
+(H)Total Average,0.8379,0.7043,0.6221

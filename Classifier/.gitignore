@@ -1,0 +1,8 @@
+__pycache__/
+__pypackages__/
+.idea
+runs
+evaluator
+dcase2022dataset
+data_statistics.csv
+draw.pptx
